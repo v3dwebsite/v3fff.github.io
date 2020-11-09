@@ -1,0 +1,103 @@
+HTTrack3.49-2+htsswf+htsjava launched on Mon, 09 Nov 2020 23:11:50 at https://wascade.ma/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://wascade.ma/ -O1 "C:\My Web Sites\wascade" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+23:11:59	Warning: 	File not parsed, looks like binary: https://wascade.ma/robots.txt
+23:14:50	Error: 	"Method Not Allowed" (405) at link https://wascade.ma/xmlrpc.php (from https://wascade.ma/)
+23:14:54	Error: 	"Bad Request" (400) at link https://wascade.ma/wp-admin/admin-ajax.php (from https://wascade.ma/)
+23:14:54	Error: 	"Not Found" (404) at link https://wascade.ma/0661354417 (from https://wascade.ma/)
+23:15:44	Warning: 	Moved Permanently for wascade.ma/services/capture-des-chats/
+23:15:44	Warning: 	File has moved from wascade.ma/services/capture-des-chats/ to https://wascade.ma/services/capture-des-chats-errants/
+23:15:44	Warning: 	Moved Permanently for wascade.ma/services/capture-des-chiens/
+23:15:44	Warning: 	File has moved from wascade.ma/services/capture-des-chiens/ to https://wascade.ma/services/capture-des-chiens-errants/
+23:16:20	Warning: 	File not parsed, looks like binary: https://wascade.ma/wp-content/plugins/revslider/public/assets/css/openhand.cur
+23:16:20	Warning: 	File not parsed, looks like binary: https://wascade.ma/wp-content/plugins/revslider/public/assets/css/closedhand.cur
+23:16:21	Error: 	"Not Found" (404) at link https://wascade.ma/wp-content/plugins/wp-client-logo-carousel/img/grabbing.png (from https://wascade.ma/wp-content/cache/minify/0381e.css)
+23:16:21	Error: 	"Not Found" (404) at link https://wascade.ma/wp-content/plugins/wp-client-logo-carousel/img/AjaxLoader.gif (from https://wascade.ma/wp-content/cache/minify/0381e.css)
+23:16:21	Error: 	"Not Found" (404) at link https://wascade.ma/TweenLite.js (from https://wascade.ma/wp-content/cache/minify/eff97.js)
+23:16:21	Error: 	"Not Found" (404) at link https://wascade.ma/Version/ (from https://wascade.ma/wp-content/cache/minify/eff97.js)
+23:16:22	Error: 	"Not Found" (404) at link https://wascade.ma/+s+ (from https://wascade.ma/wp-content/cache/minify/eff97.js)
+23:16:23	Warning: 	Moved Permanently for https://wascade.ma/?p=9
+23:16:23	Warning: 	File has moved from https://wascade.ma/?p=9 to https://wascade.ma/a-propos/
+23:16:29	Warning: 	Moved Permanently for https://wascade.ma/?p=558
+23:16:29	Warning: 	File has moved from https://wascade.ma/?p=558 to https://wascade.ma/nos-services/
+23:16:34	Warning: 	Moved Permanently for https://wascade.ma/?p=566
+23:16:34	Warning: 	File has moved from https://wascade.ma/?p=566 to https://wascade.ma/services/deratisation/
+23:16:34	Error: 	"Not Found" (404) at link https://wascade.ma/services/0661354417 (from https://wascade.ma/services/deratisation)
+23:16:35	Warning: 	Moved Permanently for https://wascade.ma/?p=1556
+23:16:35	Warning: 	File has moved from https://wascade.ma/?p=1556 to https://wascade.ma/services/desinsectisation/
+23:16:35	Warning: 	Moved Permanently for https://wascade.ma/?p=1557
+23:16:35	Warning: 	File has moved from https://wascade.ma/?p=1557 to https://wascade.ma/services/desinfection/
+23:16:35	Warning: 	Moved Permanently for https://wascade.ma/?p=1560
+23:16:35	Warning: 	File has moved from https://wascade.ma/?p=1560 to https://wascade.ma/services/capture-des-chats-errants/
+23:16:35	Warning: 	Moved Permanently for https://wascade.ma/?p=1565
+23:16:35	Warning: 	File has moved from https://wascade.ma/?p=1565 to https://wascade.ma/services/capture-des-chiens-errants/
+23:16:35	Warning: 	Moved Permanently for https://wascade.ma/?p=1572
+23:16:35	Warning: 	File has moved from https://wascade.ma/?p=1572 to https://wascade.ma/services/depigeonnisation/
+23:16:35	Warning: 	Moved Permanently for https://wascade.ma/?p=1618
+23:16:35	Warning: 	File has moved from https://wascade.ma/?p=1618 to https://wascade.ma/nos-produits/
+23:17:05	Warning: 	Moved Permanently for https://wascade.ma/?p=1171
+23:17:05	Warning: 	File has moved from https://wascade.ma/?p=1171 to https://wascade.ma/contact/
+23:17:16	Warning: 	Moved Permanently for https://wascade.ma/?p=1621
+23:17:16	Warning: 	File has moved from https://wascade.ma/?p=1621 to https://wascade.ma/services/cage-de-capture-pour-rats/
+23:17:21	Warning: 	Moved Permanently for https://wascade.ma/?p=1628
+23:17:21	Warning: 	File has moved from https://wascade.ma/?p=1628 to https://wascade.ma/services/poste-dappatage-masterbox-big/
+23:17:22	Warning: 	Moved Permanently for https://wascade.ma/?p=1640
+23:17:22	Warning: 	File has moved from https://wascade.ma/?p=1640 to https://wascade.ma/services/masterbox-plus-transparent/
+23:17:23	Warning: 	Moved Permanently for https://wascade.ma/?p=1694
+23:17:23	Warning: 	File has moved from https://wascade.ma/?p=1694 to https://wascade.ma/services/eurofly/
+23:17:25	Error: 	"Not Found" (404) at link https://wascade.ma/Popover requires tooltip.js (from https://wascade.ma/wp-content/cache/minify/d096e.js)
+23:17:25	Error: 	"Not Found" (404) at link https://wascade.ma/a-propos/661354417/0661354417 (from https://wascade.ma/a-propos/661354417/)
+23:17:25	Error: 	"Not Found" (404) at link https://wascade.ma/a-propos/Popover requires tooltip.js (from https://wascade.ma/wp-content/cache/minify/d195c.js)
+23:17:25	Error: 	"Not Found" (404) at link https://wascade.ma/a-propos/GET (from https://wascade.ma/wp-content/cache/minify/d195c.js)
+23:17:25	Error: 	"Not Found" (404) at link https://wascade.ma/a-propos/Error pJS - No image.src (from https://wascade.ma/wp-content/cache/minify/d195c.js)
+23:17:25	Error: 	"Not Found" (404) at link https://wascade.ma/nos-services/661354417/0661354417 (from https://wascade.ma/nos-services/661354417/)
+23:17:28	Error: 	"Not Found" (404) at link https://wascade.ma/nos-services/Popover requires tooltip.js (from https://wascade.ma/wp-content/cache/minify/7c612.js)
+23:17:28	Error: 	"Not Found" (404) at link https://wascade.ma/nos-services/GET (from https://wascade.ma/wp-content/cache/minify/7c612.js)
+23:17:28	Error: 	"Not Found" (404) at link https://wascade.ma/nos-services/Error pJS - No image.src (from https://wascade.ma/wp-content/cache/minify/7c612.js)
+23:17:28	Error: 	"Not Found" (404) at link https://wascade.ma/nos-produits/661354417/0661354417 (from https://wascade.ma/nos-produits/661354417/)
+23:17:28	Warning: 	Moved Permanently for https://wascade.ma/?p=1697
+23:17:28	Warning: 	File has moved from https://wascade.ma/?p=1697 to https://wascade.ma/services/fly-tec/
+23:17:29	Warning: 	Moved Permanently for https://wascade.ma/?p=1700
+23:17:29	Warning: 	File has moved from https://wascade.ma/?p=1700 to https://wascade.ma/services/total-box-transparent/
+23:17:32	Warning: 	Moved Permanently for https://wascade.ma/?p=1704
+23:17:32	Warning: 	File has moved from https://wascade.ma/?p=1704 to https://wascade.ma/services/masterbox-midi/
+23:17:36	Warning: 	Moved Permanently for https://wascade.ma/?p=1708
+23:17:36	Warning: 	File has moved from https://wascade.ma/?p=1708 to https://wascade.ma/services/total-box/
+23:17:38	Warning: 	Moved Permanently for https://wascade.ma/?p=1711
+23:17:38	Warning: 	File has moved from https://wascade.ma/?p=1711 to https://wascade.ma/services/mini-fog/
+23:17:40	Warning: 	Moved Permanently for https://wascade.ma/?p=1715
+23:17:40	Warning: 	File has moved from https://wascade.ma/?p=1715 to https://wascade.ma/services/fusion-box/
+23:17:41	Warning: 	Moved Permanently for https://wascade.ma/?p=1721
+23:17:41	Warning: 	File has moved from https://wascade.ma/?p=1721 to https://wascade.ma/services/cage-de-capture-pour-chats/
+23:17:42	Error: 	"Not Found" (404) at link https://wascade.ma/contact/661354417/0661354417 (from https://wascade.ma/contact/661354417/)
+23:17:42	Error: 	"Not Found" (404) at link https://wascade.ma/services/deratisation/661354417/0661354417 (from https://wascade.ma/services/deratisation/661354417/)
+23:17:42	Error: 	"Not Found" (404) at link https://wascade.ma/services/desinfection/661354417/0661354417 (from https://wascade.ma/services/desinfection/661354417/)
+23:17:42	Error: 	"Not Found" (404) at link https://wascade.ma/services/desinsectisation/661354417/0661354417 (from https://wascade.ma/services/desinsectisation/661354417/)
+23:17:43	Error: 	"Not Found" (404) at link https://wascade.ma/services/depigeonnisation/661354417/0661354417 (from https://wascade.ma/services/depigeonnisation/661354417/)
+23:17:43	Error: 	"Not Found" (404) at link https://wascade.ma/services/cage-de-capture-pour-rats/661354417/0661354417 (from https://wascade.ma/services/cage-de-capture-pour-rats/661354417/)
+23:17:43	Error: 	"Not Found" (404) at link https://wascade.ma/services/cage-de-capture-pour-rats/Popover requires tooltip.js (from https://wascade.ma/wp-content/cache/minify/2a7eb.js)
+23:17:43	Error: 	"Not Found" (404) at link https://wascade.ma/services/cage-de-capture-pour-rats/GET (from https://wascade.ma/wp-content/cache/minify/2a7eb.js)
+23:17:43	Error: 	"Not Found" (404) at link https://wascade.ma/services/cage-de-capture-pour-rats/Error pJS - No image.src (from https://wascade.ma/wp-content/cache/minify/2a7eb.js)
+23:17:43	Error: 	"Not Found" (404) at link https://wascade.ma/services/poste-dappatage-masterbox-big/661354417/0661354417 (from https://wascade.ma/services/poste-dappatage-masterbox-big/661354417/)
+23:17:43	Error: 	"Not Found" (404) at link https://wascade.ma/services/masterbox-plus-transparent/661354417/0661354417 (from https://wascade.ma/services/masterbox-plus-transparent/661354417/)
+23:17:43	Error: 	"Not Found" (404) at link https://wascade.ma/services/eurofly/661354417/0661354417 (from https://wascade.ma/services/eurofly/661354417/)
+23:17:43	Error: 	"Not Found" (404) at link https://wascade.ma/services/capture-des-chats-errants/661354417/0661354417 (from https://wascade.ma/services/capture-des-chats-errants/661354417/)
+23:17:44	Error: 	"Not Found" (404) at link https://wascade.ma/services/capture-des-chiens-errants/661354417/0661354417 (from https://wascade.ma/services/capture-des-chiens-errants/661354417/)
+23:17:44	Error: 	"Not Found" (404) at link https://wascade.ma/services/fly-tec/661354417/0661354417 (from https://wascade.ma/services/fly-tec/661354417/)
+23:17:44	Error: 	"Not Found" (404) at link https://wascade.ma/services/total-box-transparent/661354417/0661354417 (from https://wascade.ma/services/total-box-transparent/661354417/)
+23:17:44	Error: 	"Not Found" (404) at link https://wascade.ma/services/masterbox-midi/661354417/0661354417 (from https://wascade.ma/services/masterbox-midi/661354417/)
+23:17:44	Error: 	"Not Found" (404) at link https://wascade.ma/services/masterbox-midi/Popover requires tooltip.js (from https://wascade.ma/wp-content/cache/minify/7ef12.js)
+23:17:44	Error: 	"Not Found" (404) at link https://wascade.ma/services/masterbox-midi/GET (from https://wascade.ma/wp-content/cache/minify/7ef12.js)
+23:17:44	Error: 	"Not Found" (404) at link https://wascade.ma/services/masterbox-midi/Error pJS - No image.src (from https://wascade.ma/wp-content/cache/minify/7ef12.js)
+23:17:44	Error: 	"Not Found" (404) at link https://wascade.ma/services/total-box/661354417/0661354417 (from https://wascade.ma/services/total-box/661354417/)
+23:17:44	Error: 	"Not Found" (404) at link https://wascade.ma/services/mini-fog/661354417/0661354417 (from https://wascade.ma/services/mini-fog/661354417/)
+23:17:45	Error: 	"Not Found" (404) at link https://wascade.ma/services/fusion-box/661354417/0661354417 (from https://wascade.ma/services/fusion-box/661354417/)
+23:17:45	Error: 	"Not Found" (404) at link https://wascade.ma/services/cage-de-capture-pour-chats/661354417/0661354417 (from https://wascade.ma/services/cage-de-capture-pour-chats/661354417/)
+
+HTTrack Website Copier/3.49-2 mirror complete in 5 minutes 55 seconds : 372 links scanned, 304 files written (29479154 bytes overall) [27767107 bytes received at 78217 bytes/sec], 2988695 bytes transferred using HTTP compression in 190 files, ratio 24%, 7.1 requests per connection
+(43 errors, 49 warnings, 0 messages)
